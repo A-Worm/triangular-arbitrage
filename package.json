@@ -1,0 +1,14 @@
+{
+  "name": "triangular-arbitrage",
+  "version": "0.0.1",
+  "description": "Triangular Arbitrage Strategy Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "marcin@yoop.pl",
+  "license": "None",
+  "dependencies": {
+    "ws": "^5.2.0"
+  }
+}
